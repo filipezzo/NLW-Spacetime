@@ -4,8 +4,6 @@ Project created at the Rocketseat NLW bootcamp event.
 A memory recall application, where the user can add texts, photos, and videos of memorable events from their life to a timeline, organized by month and year.
 
 
-### 🔗  Online Project 
-* [NLW-Spacetime](https://nlw-spacetime-five.vercel.app)
 ## 🛠️Technologies Used
 The following technologies were used in the development of this project:
 
